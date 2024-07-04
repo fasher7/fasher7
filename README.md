@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying at Independent University, Bangladesh!<br> 👨‍💼 I'm a Software Engineer Intern at mPower Social Enterprises Ltd.<br>👨‍💻 I’m looking to collaborate on ML-related projects.<br>🌱 I’m currently enhancing and widening my knowledge of Full Stack.<br>💬 Ask me anything about Data Structures, Numerical Methods & Data Mining.
+🎓 I’m currently studying at Independent University, Bangladesh!<br> 👨‍💼 I'm a Software Engineer Intern at mPower Social Enterprises Ltd.<br>👨‍💻 I’m looking to collaborate on ML-related projects.<br>🌱 I’m currently enhancing and widening my knowledge of Full-Stack Development.<br>💬 Ask me anything about Data Structures, Numerical Methods & Data Mining.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-shahriar-eram-555b78243/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FaShEr07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahriar_eram7)
